@@ -1,6 +1,7 @@
 
 Jest, 
 React Testing Library
+Standard test paramaters(expectations) & Snapshot function -> testing for any unexpected changes
 
 # Getting Started with Create React App
 
