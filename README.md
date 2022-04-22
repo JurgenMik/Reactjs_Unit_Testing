@@ -1,6 +1,4 @@
 
-### Jest 
-### React Testing Library
 ### Standard test paramaters(expectations) & Snapshot function -> testing for any unexpected changes
 
 # Getting Started with Create React App
@@ -16,6 +14,14 @@ npm test
 npm run build
 
 ```
+
+``` bash 
+
+npm install --save-dev jest
+npm i @testing-library/react
+
+```
+
 
 
 
